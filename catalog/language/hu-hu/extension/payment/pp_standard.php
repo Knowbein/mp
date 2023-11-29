@@ -1,0 +1,1 @@
+<?php// Text$_['text_title']	= 'PayPal';$_['text_testmode']	= 'igyelem: a fizetés modul TESZT (Sandbox módban) van. A PayPal fiókod nem lesz ténylegesen megterhelve.';$_['text_total']	= 'Szállítás, Kezelési Költség, Kedvezmény és Adók';
